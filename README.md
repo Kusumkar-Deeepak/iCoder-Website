@@ -26,8 +26,10 @@ The iCoder website is a platform aimed at programmers and developers looking to 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+<img src="screenshot 1.png">
+<img src="screenshot 2.png">
+<img src="screenshot 3.png">
+<img src="screenshot 4.png">
 
 ## Installation
 
