@@ -26,10 +26,20 @@ The iCoder website is a platform aimed at programmers and developers looking to 
 
 ## Screenshots
 
-<img src="screenshot 1.png">
-<img src="screenshot 2.png">
-<img src="screenshot 3.png">
-<img src="screenshot 4.png">
+Here are some screenshots of the iCoder platform. If the images are not displaying, please check the `Screenshots` folder in the repository.
+
+### Screenshot 1
+![Screenshot 1](Screenshot/Screenshot1.png) - 
+
+### Screenshot 2
+![Screenshot 2](Screenshot/Screenshot2.png)
+
+### Screenshot 3
+![Screenshot 3](Screenshot/Screenshot3.png)
+
+### Screenshot 4
+![Screenshot 4](Screenshot/Screenshot4.png)
+
 
 ## Installation
 
